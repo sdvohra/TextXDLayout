@@ -294,6 +294,11 @@ form {
 Full-Width Styles
 *******************************************************************************/
 
+.row {
+  display: flex;
+  justify-content: center;
+}
+
 .outer {
   width: 100%;
 }
